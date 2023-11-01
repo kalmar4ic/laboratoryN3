@@ -5,3 +5,4 @@ if a >= 5:
     print("пока")
 else:
     print("aaaaa")
+print("Хорошего вам дня!!!!")
